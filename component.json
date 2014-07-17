@@ -1,0 +1,19 @@
+{
+  "logo": "Firebase",
+  "name": "firebase",
+  "repo": "logo/firebase",
+  "description": "The Firebase logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}

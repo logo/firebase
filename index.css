@@ -1,0 +1,21 @@
+
+/**
+ * Firebase logo.
+ */
+
+.logo[data-logo="Firebase"] {
+  width: 0;
+}
+
+.logo[data-logo="Firebase"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="Firebase"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Firebase"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
